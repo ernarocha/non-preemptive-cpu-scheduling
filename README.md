@@ -1,1 +1,1 @@
-# non-preemptive-cpu-scheduling npc
+# non-preemptive-cpu-scheduling npcs
